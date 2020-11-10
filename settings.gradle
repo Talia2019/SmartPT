@@ -1,0 +1,3 @@
+include ':blessed'
+include ':app'
+rootProject.name = "MiScale_01"
