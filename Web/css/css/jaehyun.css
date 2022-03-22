@@ -1,0 +1,172 @@
+body{
+	font-family: 'Black Han Sans', sans-serif;
+	font-family: 'Do Hyeon', sans-serif;
+	padding-top: 180px;
+	padding-bottom: 120px;
+}
+
+
+.rea{
+	font-size:40px;
+}
+
+tr{
+font-size:30px;
+text-align:center;
+}
+/*   nav css    */
+
+nav{
+	background-color:white;
+	padding-left:50px;
+	padding-right:50px;
+}
+
+.navp{
+	font-size:90px;
+	font-weight: bold;
+	color:#8DA5BD;
+}
+
+
+i.navi{
+	font-size: 100px;
+	color:#D8D8D8;
+}
+
+
+
+nav.navd{
+	background-color:white;
+ 	box-shadow: 20px 20px 20px 20px #E6E6E6;
+	padding-right:70px;
+	padding-left:70px;
+}
+
+i.navdi{
+	font-size:60px;
+	color:#BDBDBD;
+
+}
+
+.navdp{
+	color:#BDBDBD;
+	font-size:30px;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+/* main 아래 그래프 속성 */
+.gmainp{
+	float:left; width: 20%;text-align: center;
+}
+
+/* 내용 css */
+
+
+
+.title{
+	float: center; font-size: 80px;
+}
+
+i.titlei{
+	font-size:100px; color:#8DA5BD; float: center;
+
+}
+
+
+.card{
+
+	margin : 0 auto; width: 80%;
+
+}
+i.cardi{
+	font-size: 100px; color:#BDBDBD;
+}
+
+
+/* progress p tag  css*/
+
+.pr{
+	font-size:20px; font-weight: bold;
+}
+
+.smallbar .pr{
+  font-size: 15px;
+}
+
+
+/* miband css */
+
+i.mifi{
+	font-size:30px;
+	margin: 0 0 0 20%;
+	float:left;
+}
+
+.mif{
+	font-size:20px; font-weight:bold; float:left; margin: 0 40px;
+
+}
+
+
+i.misi{
+	color:red; float:left; font-size: 20px;
+}
+
+h3.mip{
+	font-weight:bold;
+}
+
+.mipp{
+	font-size:20px;
+}
+
+#today_exercise_div {
+	margin: 5% 10%;
+	height: 100px;
+}
+
+#exercise_div {
+	width: 70%;
+	margin: 70px auto;
+	/* width 가 지정되어있어서 가운데정렬이 먹히는것임. */
+	background-color: yellow;
+}
+#exercise {
+	padding: 5% 0;
+	text-align: center;
+}
+.card-body{
+	box-shadow: 2px 2px 2px 2px #E6E6E6;
+}
+
+.exercise-card{
+	width:300px;
+	height:400px;
+}
+
+.exercise-card > .card-body{
+	text-align: center;
+}
+.exercise-card > .card-body > img{
+	margin-top:30px;
+}
+
+.carprofat .progress{
+	height:20px;
+}
+
+.form-group > label{
+	font-size:80px;
+}
+.form-group > select{
+	font-size:50px;
+
+}
+.form-group > input{
+	font-size:50px;
+
+}
